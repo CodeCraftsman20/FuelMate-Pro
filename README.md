@@ -13,6 +13,15 @@ A premium, AI-powered vehicle, fuel, and expense management solution.
 > Start instead (same React/Tailwind/shadcn stack, file-based routing). All
 > Supabase wiring is environment-variable driven and works in either.
 
+## Screenshots
+
+![FuelMate Pro screenshot 1](./images/1.png)
+![FuelMate Pro screenshot 2](./images/2.png)
+![FuelMate Pro screenshot 3](./images/3.png)
+![FuelMate Pro screenshot 4](./images/4.png)
+![FuelMate Pro screenshot 5](./images/5.png)
+![FuelMate Pro screenshot 6](./images/6.png)
+
 ## Quick start
 
 ```bash

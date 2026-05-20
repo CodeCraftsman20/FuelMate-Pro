@@ -117,5 +117,5 @@ MIT - clone, fork, and ship.
 
 ## Credit
 
-All rights reserved.
+All rights reserved by Code with Shahriar.
 

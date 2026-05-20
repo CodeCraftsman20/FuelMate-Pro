@@ -10,6 +10,17 @@ A premium, AI-powered vehicle, fuel, and expense management solution.
 - 📦 Runs locally with **mock data mode** out of the box
 
 
+## Features
+
+- **Smart fuel logging** - Track fill-ups, mileage, cost-per-unit, and fuel efficiency.
+- **Vehicle garage** - Manage multiple vehicles with detailed performance and history views.
+- **Expense tracking** - Record maintenance, insurance, tolls, repairs, and other ownership costs.
+- **Analytics dashboard** - View fuel cost, efficiency trends, monthly spend, and vehicle health metrics.
+- **Service reminders** - Keep up with oil changes, tire rotations, insurance renewals, and scheduled maintenance.
+- **AI assistant experience** - Surface driving insights, maintenance suggestions, and fuel-saving recommendations.
+- **Responsive premium UI** - Modern dark-first interface built for desktop and mobile.
+- **Supabase-ready data model** - Includes schema, RLS policies, and generated database types.
+
 ## Screenshots
 
 ![FuelMate Pro screenshot 1](./images/1.png)
@@ -102,4 +113,9 @@ are auto-created via the `on_auth_user_created` trigger.
 
 ## License
 
-MIT — clone, fork, and ship.
+MIT - clone, fork, and ship.
+
+## Credit
+
+All rights reserved.
+
